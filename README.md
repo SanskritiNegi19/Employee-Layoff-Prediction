@@ -111,4 +111,4 @@ This project is intended for educational and academic purposes. Model prediction
 **Sanskriti Negi**  
 B.Tech, Computer Science and Engineering
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/YOUR-USERNAME](https://github.com/SanskritiNegi19
